@@ -3,9 +3,7 @@ This script automatically connects to Outlook, downloads the latest Excel attach
 Absolutely. Here’s a **detailed, professional README.md** for your script, following best practices (clear intro, usage, requirements, explanation of each part, limitations, and credits).
 If you want it even more concise or more formal, let me know and I’ll push back or revise as needed.
 
----
 
-````markdown
 # Automated Outlook Excel Validator & Approval Script
 
 This script automates the process of downloading Excel files from Outlook emails, validating the contents for data quality issues, and handling approval or reporting via automated email replies.
